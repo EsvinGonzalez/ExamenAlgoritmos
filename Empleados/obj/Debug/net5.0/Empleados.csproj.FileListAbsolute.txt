@@ -1,0 +1,16 @@
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.exe
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.deps.json
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.runtimeconfig.json
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.runtimeconfig.dev.json
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.dll
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\ref\Empleados.dll
+C:\Users\Gyovanny\Downloads\examen\Empleados\bin\Debug\net5.0\Empleados.pdb
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.csproj.AssemblyReference.cache
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.AssemblyInfo.cs
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.dll
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\ref\Empleados.dll
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.pdb
+C:\Users\Gyovanny\Downloads\examen\Empleados\obj\Debug\net5.0\Empleados.genruntimeconfig.cache

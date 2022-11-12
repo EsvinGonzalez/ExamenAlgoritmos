@@ -1,0 +1,16 @@
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.csproj.AssemblyReference.cache
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.AssemblyInfoInputs.cache
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.AssemblyInfo.cs
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.csproj.CoreCompileInputs.cache
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.exe
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.deps.json
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.runtimeconfig.json
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.runtimeconfig.dev.json
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.dll
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\ref\Matriz3x5.dll
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\bin\Debug\net5.0\Matriz3x5.pdb
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.dll
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\ref\Matriz3x5.dll
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.pdb
+C:\Users\Gyovanny\Downloads\examen\Matriz3x5\obj\Debug\net5.0\Matriz3x5.genruntimeconfig.cache
